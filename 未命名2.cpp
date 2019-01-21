@@ -1,13 +1,9 @@
 #include<stdio.h>
 
-void hello(void);
-
 int main(void)
 {
-	hello();
+    printf("Welcome to bbb");	
+    return 0; 
 }
 
-void hello(void)
-{
-	printf("Welcome to bbb");	
-}
+
